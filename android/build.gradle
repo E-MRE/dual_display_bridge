@@ -1,4 +1,4 @@
-group = "com.example.dual_display_bridge"
+group = "com.mre.dual_display_bridge"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -26,7 +26,7 @@ apply plugin: "kotlin-android"
 
 android {
     if (project.android.hasProperty("namespace")) {
-        namespace = "com.example.dual_display_bridge"
+        namespace = "com.mre.dual_display_bridge"
     }
 
     compileSdk = 34

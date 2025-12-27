@@ -1,4 +1,4 @@
-package com.example.dual_display_bridge
+package com.mre.dual_display_bridge
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
